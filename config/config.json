@@ -1,0 +1,17 @@
+{
+    "token": "ODUyMTQ5OTY3NzQxMzg2ODEz.YMCogA.rdN_dRAhPoAnmLJ0jeHXun9LRmk",
+    "tokenn": "ODUyMTQ5OTY3NzQxMzg2ODEz.YMCogA.rdN_dRAhPoAnmLJ0jeHXun9LRmk",
+    "tokennn": "ODUyMTQ5OTY3NzQxMzg2ODEz.YMCogA.rdN_dRAhPoAnmLJ0jeHXun9LRmk",
+    "prefix": ">",
+    "default_prefix": ">",
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "db": {
+        "hostname": "127.0.0.1",
+        "database": "pokebot",
+        "username": "root",
+        "password": "root"
+    }
+}
